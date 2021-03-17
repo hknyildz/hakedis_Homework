@@ -15,7 +15,7 @@ int main()
     
         setlocale(LC_ALL, "Turkish");//Türkçe karakterlerin okunabilmesini saðladým.
    
-        string secim,satir,cevap;//Genel olarak her yerde kullanacagým deðiþkenleri yazdým.
+        string secim,satir,cevap;
         cout << "...... LÜTFEN BÝR SEÇÝM YAPINIZ ......"<<endl;
         cout << "1)Proje"<<endl<<"2)Hakediþ"<<endl<<"3)Ürün"<<endl<<"4)ÇIKIÞ"<<endl;
         cin >> secim;//kullanýcýdan ne üzerinden iþlem yapacagýný secmesýný istedim
