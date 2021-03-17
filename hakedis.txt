@@ -1,0 +1,10 @@
+2 3 tugla 400 adet 5
+2 2 cimento 60 kg 5
+1 1 kiremit 300 adet 2
+5 1 tugla 800 adet 3
+9 1 akustik_sunger 300 mtkare 20
+9 2 fayans 400 adet 7
+9 3 yalitim_kopugu 30 lt 9
+7 1 cimento 80 kg 4
+7 1 gazbeton(orta) 250 adet 8
+2 1 boya 25 lt 6

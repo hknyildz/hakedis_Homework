@@ -1,0 +1,10 @@
+1 kopru_insaati yildiz_insaat sevde_yildiz hakan_yildiz
+2 valilik_binasi halit_insaat halit_altinay muharrem_altinay
+3 cami_insaati gursoy_yapi sefa_gursoy onur_gursoy
+4 cadde_onarimi ceylan_insaat beliz_ceylan kadir_ceylan
+5 sky_residences sur_yapi gulin_guzel dicle_haspolatli
+6 uzun_yasam_konutlari aktas_insaat omer_aktas mustafa_dogan
+7 fakulte_binasiç ozdemir_construction ali_ozdemir sçla_kalkan
+8 acelya_sitesi hasguc_insaat kasçim_hasguc hasan_eskin
+9 cami_restorasyon erkyapi sema_cekic ozgur_kandemir
+10 aquamall cirali_insaat engin_cirali arda_bozbas

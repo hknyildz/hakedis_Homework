@@ -1,0 +1,10 @@
+1 cimento kg 4 tekzen
+2 cimento kg 5 koctas
+3 tugla adet 3 yuksel
+4 kiremit adet 2 yuksel
+5 boya lt 6 jotun
+6 akustik_sunger mtkare 20 turkeli
+7 fayans adet 7 koctas
+8 yalitim_kopugu lt 9 izotup
+9 gazbeton(orta) adet 8 ege_gaz_beton
+10 gazbeton(buyuk) adet 12 ege_gaz_beton
